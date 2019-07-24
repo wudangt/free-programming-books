@@ -1,37 +1,32 @@
 ### Index
+
 * [Ajax](#ajax)
-* [CSS](#css)
-* [HTML](#hmtl)
-* [JavaScript](#javascript)
+* [HTML](#html)
 * [MySQL](#mysql)
 * [PHP](#php)
-* [XHTML](#xhtml)
+* [Scratch](#scratch)
 
 
 ### Ajax
+
 * [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
 
 
-### CSS
-* [CSS](http://www.tutorialeweb.net/css/)
+### HTML
 
-
-### HMTL
-* [HTML](http://tutorialehtml.com/htmlt)
-
-
-### JavaScript
-* [JavaScript](http://www.tutorialeweb.net/javascript/)
+* [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 
 
 ### MySQL
-* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf)
+
+* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf) (PDF)
 
 
 ### PHP
-* [PHP](http://www.tutorialeweb.net/php/)
+
 * [PHP](http://php.punctsivirgula.ro)
 
 
-### XHTML
-* [XHTML](http://www.tutorialeweb.net/xhtml/)
+### Scratch
+
+* [Informatica Creativa](http://scratched.gse.harvard.edu/resources/informatica-creativa-0)

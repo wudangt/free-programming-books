@@ -1,5 +1,6 @@
 ### Podcasty
 
-* [CZpodcast](http://java.cz/article/czpodcast)
-* [DevMinutes](http://devminutes.cz/)
-* [Brus kódu](http://bruskodu.cz/) - pro frontend vývojáře
+* [Brus kódu](http://bruskodu.cz) - pro frontend vývojáře
+* [CZpodcast](https://soundcloud.com/czpodcast-1)
+* [DevMinutes](http://devminutes.cz)
+* [Kafemlejnek.TV](https://kafemlejnek.tv)

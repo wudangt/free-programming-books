@@ -1,89 +1,145 @@
 ### Index
+
+* [Android](#android)
+* [AspectJ](#aspectj)
 * [C](#c)
+* [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
+* [Html](#html)
 * [iOS](#ios)
-* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Matlab](#matlab)
+* [.NET Framework](#net-framework)
 * [PHP](#php)
 * [Python](#python)
-* [R] (#r)
+  * [Django](#django)
+* [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Html](#html)
-* [Android](#android)
+
+
+### Android
+
+* [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
+
+
+### AspectJ
+
+* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/)
 
 
 ### C
-* [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
-* [Sistem Programlama ve İleri C Uygulamaları Kurs Notları](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
+
+* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
+* [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
+
+
+### CSS
+
+* [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/)
 
 
 ### D
-* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
+
+* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) (PDF)
+
 
 ### Dart
+
 * [Dart - Merhaba Dünya](http://dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
 
 
 ### Fortran
+
 * [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php)
 
 
 ### Git
+
 * [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
+* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) by [Ali Özgür](https://github.com/aliozgur)
+
 
 ### Go
-* [Go Turu](http://tur.a.golang.org.tr)
+
+* [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
+
+
+### Html
+
+* [Html'e Giriş](http://www.htmldersleri.org)
+* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+
 
 ### iOS
-* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios/)
 
-### Java
-* [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
+* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
+
 
 ### JavaScript
+
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
 
 
 ### LaTeX
+
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
 
+
 ### Linux
-* [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)
+
+* [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
+* [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
+* [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
+
 
 ### Matlab
+
 * [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
 
+
+### .NET Framework
+
+* [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
+
+
 ### PHP
+
 * [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
 
-### R
-* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
 
 ### Python
-* [Python ile Programlama](http://belgeler.istihza.com/py3/)
-* [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf)
+
+* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](http://ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
+* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
+
+
+### Django
+
+* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (1.11) (HTML) (:construction: *in process*)
+
+
+### R
+
+* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
+
 
 ### Ruby
+
+* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
 * [Ruby](https://www.ruby-lang.org/tr/)
+* [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
-* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
-* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
+
 
 ### Rust
+
 * [Rust'a Giriş](http://bit.ly/rustagiris)
 
-### Html
-* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
-* [Html'e Giriş](http://www.htmldersleri.org/)
-
-### Android
-* [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
